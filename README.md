@@ -1,1 +1,1 @@
-# Litho-bates: montezumae
+# litho bates: montezumae
